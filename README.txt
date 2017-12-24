@@ -6,9 +6,7 @@ people in their contacts list.
 Persmission to access contacts must be granted on the device's settings.
 A contact helper class is used to help pull contact details into the app
 
-Portfolio and Serializer are used to manage all saved tweets and users, 
-which are held in a json file
-
+Users and Tweets are saved to mongo db through the web app api
 
 Log messages are used to keep the developer informed of app activity, and the word 
 "tweet" is included to be used in filtered searched of the activity log.
